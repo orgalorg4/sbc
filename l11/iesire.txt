@@ -1,0 +1,8 @@
+10 incorect
+52 incorect
+31 incorect
+64 corect
+92 corect
+5 incorect
+25 incorect
+13 incorect
